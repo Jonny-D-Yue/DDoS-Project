@@ -1,0 +1,2 @@
+What type is your DDoS attack?
+Which OSI layer does the DDoS attack belong to?
